@@ -1,7 +1,7 @@
 ## Hello / Ja Moin / GuMo 👋
-My name is Martin and I am a German freelance software engineer specialising in iOS apps, currently living in Southeast Asia. Come say hi over on [LinkedIn](https://www.linkedin.com/in/martinzoeller/)!
+My name is Martin and I am a German freelance software engineer specialising in iOS apps, currently living in Southeast Asia.
 
-- 👨‍💼 I am currently working on building up my own business and share my experiences on [LinkedIn](https://www.linkedin.com/in/martinzoeller/).
+- 👨‍💼 I am currently working on building up my own business and share my experiences on LinkedIn.
 - 💻 My focus is on iOS app development! But I also dabble in being a developer coach and blogger (coming soon).
 - 📍 I am from Germany, but I have been travelling through Southeast Asia with my girlfriend since 2025.
 - 🎧 My passion project [iana has been on the App Store for almost four years](https://apps.apple.com/de/app/shuffle-nach-alben-iana/id1587591677). If you're an Apple Music user, give it a try! It's 100% free.
