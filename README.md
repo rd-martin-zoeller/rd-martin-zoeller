@@ -1,5 +1,5 @@
 ## Hello / Ja Moin / GuMo 👋
-My name is Martin and I am a German freelance software engineer specialising in iOS apps, currently living in Southeast Asia.
+My name is Martin and I am a self-employed German software engineer specialising in iOS apps, currently living in Southeast Asia.
 
 - 👨‍💼 I am currently working on building up my own business and share my experiences on LinkedIn.
 - 💻 My focus is on iOS app development! But I also dabble in being a developer coach and blogger (coming soon).
